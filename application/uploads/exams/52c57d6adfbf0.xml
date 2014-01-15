@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<exam>
+  <question>
+    <text>this is a regular question</text>
+    <type>regular</type>
+    <answer></answer>
+  </question>
+</exam>

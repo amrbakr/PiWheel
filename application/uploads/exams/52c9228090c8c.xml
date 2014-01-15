@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<exam>
+  <question>
+    <text>What is a while loop ?</text>
+    <type>regular</type>
+    <answer></answer>
+  </question>
+  <question>
+    <text>If conditions is useful ?</text>
+    <type>mark</type>
+    <answer>true</answer>
+  </question>
+  <question>
+    <text>Pick the larger number..</text>
+    <type>choice</type>
+    <answers>
+      <answer mark="true">102</answer>
+      <answer mark="false">2</answer>
+      <answer mark="false">3</answer>
+      <answer mark="false">45</answer>
+    </answers>
+  </question>
+</exam>

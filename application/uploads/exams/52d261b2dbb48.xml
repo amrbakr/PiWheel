@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<exam>
+  <question>
+    <text>regular question</text>
+    <type>regular</type>
+    <answer></answer>
+  </question>
+  <question>
+    <text>choice</text>
+    <type>choice</type>
+    <answers>
+      <answer mark="true">1</answer>
+      <answer mark="false">2</answer>
+      <answer mark="false">3</answer>
+      <answer mark="true">4</answer>
+      <answer mark="false">5</answer>
+      <answer mark="false">6</answer>
+    </answers>
+  </question>
+</exam>

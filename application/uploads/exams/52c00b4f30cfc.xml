@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<exam>
+  <question>
+    <text>Why ?</text>
+    <type>regular</type>
+    <answer></answer>
+  </question>
+  <question>
+    <text>Sun bigger than Earth ?</text>
+    <type>mark</type>
+    <answer>true</answer>
+  </question>
+  <question>
+    <text>Pick the larger number ?</text>
+    <type>choice</type>
+    <answers>
+      <answer mark="false">1</answer>
+      <answer mark="false">2</answer>
+      <answer mark="false">3</answer>
+      <answer mark="true">10</answer>
+      <answer mark="false">-10</answer>
+    </answers>
+  </question>
+</exam>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<exam>
+  <question>
+    <text>Sun is bigger than Earth ?</text>
+    <type>mark</type>
+    <answer>true</answer>
+  </question>
+  <question>
+    <text>Pick the bigger number from the following..</text>
+    <type>choice</type>
+    <answers>
+      <answer mark="false">1</answer>
+      <answer mark="false">2</answer>
+      <answer mark="false">3</answer>
+      <answer mark="true">20</answer>
+      <answer mark="false">-19</answer>
+    </answers>
+  </question>
+</exam>
